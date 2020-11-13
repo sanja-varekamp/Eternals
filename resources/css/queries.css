@@ -1,0 +1,261 @@
+@media only screen and (max-width: 1200px) {
+    section {
+        padding: 60px 0;
+    }
+
+    h2 {
+        font-size: 200%;
+    }
+
+    h3 {
+        font-size: 160%;
+    }
+
+    .logo {
+        width: 70px;
+        height: 70px;
+    }
+
+    .row {
+        padding: 0 3%;
+    }
+
+    .main-nav {
+        font-size: 90%;
+    }
+
+    .sticky .main-nav {
+        font-size: 90%;
+    }
+
+    .icon-li {
+        font-size: 80%;
+    }
+
+    .price-box ul li {
+        font-size: 80%;
+
+    }
+}
+
+
+@media only screen and (max-width: 1070) {
+
+
+    .price-box {
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    .price {
+        font-size: 150%;
+
+    }
+
+
+    .btn {
+        padding: 5px 15px;
+        background-color: #eb7f58;
+        color: #fff;
+        border: #d66840;
+    }
+
+}
+
+@media only screen and (max-width: 991px) {
+    .responsive {
+        display: contents !important;
+        text-align: center;
+        text-align: -webkit-center;
+    }
+
+    blockquote p {
+        margin-bottom: 10px;
+    }
+
+    blockquote {
+        margin-top: 20px;
+    }
+
+    .price-box {
+        width: 60%;
+        text-align: center;
+        margin-top: 15px;
+        ;
+    }
+
+    .responsive-row {
+        text-align: center;
+        text-align: -webkit-center;
+    }
+
+    footer {
+        font-size: 80%;
+    }
+
+    .footer-nav {
+        font-size: 110%;
+        font-weight: 400;
+        position: absolute;
+    }
+
+    .centers-img {
+        margin-top: 25px;
+    }
+
+
+
+}
+
+@media only screen and (max-width: 929px) {
+
+    .main-nav {
+        display: none
+    }
+
+    .mob-nav-icon {
+        display: inline-block;
+    }
+
+    .main-nav {
+        float: left;
+        margin-top: 35px;
+        margin-left: 25px;
+        line-height: 150%;
+        font-size: 100%;
+    }
+
+    .main-nav li {
+        display: block;
+
+    }
+
+}
+
+@media only screen and (max-width: 780px) {
+    .footer-nav {
+        font-size: 110%;
+        font-weight: 400;
+        display: grid;
+        line-height: 120%;
+    }
+
+    footer p {
+        text-align: right;
+        font-size: 90%;
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    .row-retreats {
+        margin: 3%;
+    }
+
+    .row-retreats p {
+        margin-left: 25px;
+    }
+
+    .row-retreats h3 {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 580px) {
+    h1 {
+        font-size: 140% !important;
+    }
+
+    h2 {
+        font-size: 140% !important;
+    }
+
+    h3 {
+        font-size: 120%;
+        margin-bottom: 15px;
+    }
+
+    h4 {
+        font-size: 100%;
+    }
+
+    .row-retreats p {
+        font-size: 80%;
+        line-height: 120%;
+        margin-left: 30px;
+    }
+
+    .retreat-img {
+        width: 120px;
+        height: 120px;
+    }
+
+    .resort-options {
+        font-size: 80%;
+    }
+
+    .centers-img {
+        width: 250px;
+        height: 130px;
+    }
+
+    blockquote p {
+        font-size: 80%;
+    }
+
+    blockquote span {
+        font-size: 80%;
+    }
+
+    .price {
+        font-size: 150%;
+    }
+
+    button {
+        font-size: 80% !important;
+    }
+
+    footer p {
+        text-align: right;
+        font-size: 80%;
+    }
+
+    footer {
+        padding: 20px
+    }
+
+    label,
+    input[type=text],
+    input[type=email],
+    input[type=submit],
+    #message {
+        font-size: 80%;
+    }
+
+}
+
+@media only screen and (max-width: 500px) {
+    .price-box {
+        width: 80%;
+    }
+
+    .footer-nav li,
+    .social-links li {
+        display: block;
+    }
+
+    .social-links li {
+        font-size: 80%;
+    }
+
+    footer p {
+        text-align: center;
+    }
+
+    .timer-container {
+        text-align: center;
+    }
+
+    #timer {
+        text-align: center !important;
+    }
+}
